@@ -1,4 +1,4 @@
-package ewa_paginator
+package easypage
 
 import (
 	"github.com/gin-gonic/gin"
