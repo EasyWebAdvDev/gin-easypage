@@ -2,7 +2,6 @@ module github.com/EasyWebAdvDev/gin-easypage
 
 go 1.23.0
 
-retract v1.0.0 // versione pubblicata per errore
 
 require (
 	github.com/gin-gonic/gin v1.10.0
